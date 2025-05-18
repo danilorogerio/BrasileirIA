@@ -5,6 +5,9 @@
 Mergulhe em uma **experiência imersiva e inovadora** nos 20 clubes da Série A do Campeonato Brasileiro. Desenvolvido como uma aplicação web com **Streamlit**, o BrasileirIA usa o **poder do Gemini e do kit de desenvolvimento de agentes da Google** para ser seu portal de insights e emoções sobre o futebol.
 ![BrasileirIA Screenshot](https://github.com/danilorogerio/BrasileirIA/blob/704f817f36fa8c8da21ba2f028838e45993acc97/imagens/Tela_Inicial.png) ---
 
+**🚀 Veja o BrasileirIA ao Vivo Aqui!**
+**[Clique para Acessar o Aplicativo](https://brasileiria.streamlit.app/)**
+
 Utilizamos **Inteligência Artificial generativa** para desvendar cada clube sob **múltiplos olhares vibrantes**. Não apenas dados frios, mas **análises multifacetadas** que combinam a **história gloriosa** que forjou sua identidade, as **últimas notícias** pulsantes que ditam o ritmo, a **análise técnica e de gestão** precisa dos bastidores e a **incomparável visão apaixonada e poética** da arquibancada. O segredo por trás de tanta riqueza e profundidade? Cada uma dessas facetas ganha vida e é orquestrada através de um **agente de IA distinto**, com um prompt pensado para capturar sua essência única! 
 
 E para que você **sinta visualmente o coração do texto gerado**, transformamos cada análise em uma **nuvem de palavras cativante**, destacando os termos que pulsam mais forte em cada perspectiva do clube!  O diferencial dessa visualização está no uso da biblioteca spaCy, que permite processar o texto de forma inteligente e capturar as palavras mais relevantes com propriedade."
