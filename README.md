@@ -55,9 +55,9 @@ git clone [https://github.com/danilorogerio/BrasileirIA(https://github.com/danil
 pip install -r requirements.txt
 ```
 
-3. Configure suas chaves de API no arquivo `.env` ou diretamente na aplicacao
-
-4. Execute a aplicação:
+3. Configure suas chaves de API no arquivo `.env` 
+   
+5. Execute a aplicação:
 ```bash
 streamlit run app.py
 ```
