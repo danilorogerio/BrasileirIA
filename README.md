@@ -40,7 +40,7 @@ A paixão transformada em palavras. Capture a emoção e a perspectiva autêntic
 - **Frontend**: Streamlit
 - **Backend**: Python
 - **IA**: Modelos de linguagem Gemini e agentes de IA
-- **Pesquisa**: Busca automática por informações atualizadas
+- **Pesquisa noticias atuais**: Tool Google Search
 - **NLP**: Spacy
 - **Nuvem de Palavras**: WordCloud
 - **Escudos Times**: https://logodetimes.com/
