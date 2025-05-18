@@ -9,9 +9,9 @@ Utilizamos **Inteligência Artificial generativa** para desvendar cada clube sob
 
 E para que você **sinta visualmente o coração do texto gerado**, transformamos cada análise em uma **nuvem de palavras cativante**, destacando os termos que pulsam mais forte em cada perspectiva do clube!  O diferencial dessa visualização está no uso da biblioteca spaCy, que permite processar o texto de forma inteligente e capturar as palavras mais relevantes com propriedade."
 
-![Screenshot Nuvem de Palavras gerais](https://github.com/danilorogerio/BrasileirIA/blob/e0e3e846b297eeffe03ec20ac6c452be258785d1/imagens/tela%20Nuvem%20Termos%20Gerais.jpg) ---
+![Screenshot Agente Torcedor](https://github.com/danilorogerio/BrasileirIA/blob/e0e3e846b297eeffe03ec20ac6c452be258785d1/imagens/tela%20Nuvem%20Termos%20Gerais.jpg) ---
 
-![Screenshot Nuvem de Palavras pessoas](https://github.com/danilorogerio/BrasileirIA/blob/e0e3e846b297eeffe03ec20ac6c452be258785d1/imagens/Tela%20Nuvem%20Pessoas.jpg) ---
+![Screenshot Nuvem de Palavras ](https://github.com/danilorogerio/BrasileirIA/blob/e0e3e846b297eeffe03ec20ac6c452be258785d1/imagens/Tela%20Nuvem%20Pessoas.jpg) ---
 
 **BrasileirIA: Seu time sob uma nova perspectiva, revelada por agentes de IA!**
 
