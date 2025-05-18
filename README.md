@@ -11,7 +11,7 @@ E para que você **sinta visualmente o coração do texto gerado**, transformamo
 
 ![Screenshot Agente Torcedor](https://github.com/danilorogerio/BrasileirIA/blob/c3d55472f3c0f8e9350aeda449dea834e11af9e5/imagens/Screenshot_Agente_Torcedor.png) ---
 
-![Screenshot Nuvem de Palavras ](https://github.com/danilorogerio/BrasileirIA/blob/e0e3e846b297eeffe03ec20ac6c452be258785d1/imagens/Tela%20Nuvem%20Pessoas.jpg) ---
+![Screenshot Nuvem de Palavras ](https://github.com/danilorogerio/BrasileirIA/blob/e95dfd2b2d55268d82e2c5b796499070110bcc27/imagens/nuvem_termos_gerais) ---
 
 **BrasileirIA: Seu time sob uma nova perspectiva, revelada por agentes de IA!**
 
